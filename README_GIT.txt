@@ -1,6 +1,9 @@
 # instrucciones_git
 Guía para creación, carga y descarga de fuentes a repositorios
 
+** Parametro para paths largos
+git config --global core.longpaths true
+
 **MAQUINA ORIGEN 
 --(Cargar los archivos al repositorio)
 git init
